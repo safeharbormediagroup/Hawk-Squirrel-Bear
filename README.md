@@ -22,5 +22,5 @@ Hawk
      ▼  (Buy berries at the tree)
  [ THE TREE ] 
      │
-     ▼  (50% Honey Map + Berry Profit)
+     ▼  (50% ^ Honey Map + Berry P )
  [ THE HIVE ]
